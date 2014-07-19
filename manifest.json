@@ -1,6 +1,6 @@
 {
   "name": "Chrome Yandex Music Button",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
   "description": "Adds play/pause button",
   "browser_action": {

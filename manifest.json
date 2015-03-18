@@ -9,6 +9,6 @@
   },
   "background" : { "scripts" : ["popup.js"] },
   "permissions": [
-    "http://music.yandex.ru/*", "tabs"
+    "https://music.yandex.ru/*", "tabs"
   ]
 }
